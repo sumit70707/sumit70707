@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">🚀 Java Backend Developer | Code Craftsperson | REST API Wrangler</h3>
+<h3 align="center">🚀 Java Backend Developer </h3>
 
 <p align="center">
  I'm a Java enthusiast who loves turning coffee ☕ into clean, scalable backend code. 
@@ -10,7 +10,7 @@ I thrive in Agile teams that prioritize collaboration and clean architecture.
 ---
 
 - 🎯 Preparing for Java developer roles (Spring Boot, REST APIs, Microservices)
-- 📚 Actively learning and revising: **Spring Boot,REST APIs,Microservices,DBMS,DSA,OS and Networking **
+- 📚 Actively learning and revising: **Spring Boot**,**REST APIs**,**Microservices**,**DBMS**,**DSA**,**OS** and **Networking** **
 - 💼 Open to: Internships | Full-time Java Developer Roles
 - 📫 Reach me at: **sumitshelke707@gmail.com**
 - ⚡ Fun fact: I love debugging and making code clean & functional. 😄
