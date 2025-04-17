@@ -10,7 +10,7 @@ I thrive in Agile teams that prioritize collaboration and clean architecture.
 ---
 
 - 🎯 Preparing for Java developer roles (Spring Boot, REST APIs, Microservices)
-- 📚 Actively learning and revising: **Spring Boot**,**REST APIs**,**Microservices**,**DBMS**,**DSA**,**OS** and **Networking** **
+- 📚 Actively learning and revising: **Spring Boot**,**REST APIs**,**Microservices**,**DBMS**,**DSA**,**OS** and **Networking** 
 - 💼 Open to: Internships | Full-time Java Developer Roles
 - 📫 Reach me at: **sumitshelke707@gmail.com**
 - ⚡ Fun fact: I love debugging and making code clean & functional. 😄
