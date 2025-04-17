@@ -3,7 +3,7 @@
 
 <p align="center">
     I'm a Java enthusiast who loves turning coffee ☕ into clean, scalable backend code. 
-    From crafting RESTful APIs with Spring Boot to designing microservices that just **work**, 
+    From crafting RESTful APIs with Spring Boot to designing microservices that just *work* , 
     I thrive in fast-paced Agile teams where collaboration and clean architecture matter.
 </p>
 
