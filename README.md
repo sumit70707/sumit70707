@@ -49,12 +49,15 @@
 - 📚 [Case Study: Creating an API for a Human Resource Program](https://github.com/sumit70707/Creating-an-API-for-a-Human-Resource-Program)  
   Developed a RESTful API using Java and Spring Boot for HR operations like employee onboarding and management.
 
-- 📦 [Project Name 3](https://github.com/sumit70707/project-repo-name)  
-  *Brief description goes here (e.g., A mini backend service for ...)*
+- 📦 [QuizMaster](https://github.com/sumit70707/QuizMaster)  
+  It is a Java-based command-line quiz application that challenges users with multiple-choice questions.
 
-- 📦 [Project Name 4](https://github.com/sumit70707/project-repo-name)  
-  *Brief description goes here (e.g., A tool for automating ...)*  
+- 📦 [Snake_Game](https://github.com/sumit70707/Snake_Game)  
+  This is a simple Snake Game implemented in Java using object-oriented programming concepts and Java Swing for the graphical user interface.
 
+- 📦 [ATM_Interface](https://github.com/sumit70707/ATM_Interface)  
+  This is a simple Java ATM (Automated Teller Machine) system implemented as a console application. It allows users to check their balance, withdraw money, and deposit money.
+  
 
 ---
 
