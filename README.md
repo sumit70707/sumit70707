@@ -3,14 +3,14 @@
 
 <p align="center">
     I'm a Java enthusiast who loves turning coffee ☕ into clean, scalable backend code. 
-    From crafting RESTful APIs with Spring Boot to designing microservices that just *work*, 
+    From crafting RESTful APIs with Spring Boot to designing microservices that just **work**, 
     I thrive in fast-paced Agile teams where collaboration and clean architecture matter.
 </p>
 
 ---
 
 - 🎯 Preparing for Java developer roles (Spring Boot, REST APIs, Microservices)
-- 📚 Actively learning and revising: **Spring Boot,REST APIs,Microservices,DBMS, DSA, and Project Patterns**
+- 📚 Actively learning and revising: **Spring Boot,REST APIs,Microservices,DBMS,DSA,OS and Networking **
 - 💼 Open to: Internships | Full-time Java Developer Roles
 - 📫 Reach me at: **sumitshelke707@gmail.com**
 - ⚡ Fun fact: I love debugging and making code clean & functional. 😄
@@ -43,10 +43,20 @@
 ---
 
 ### 🚀 Featured Projects:
-- 🧾 [Expense Management System](https://github.com/your-github-username/expense-management-system)
-- 📚 [Java Certification Case Study](https://github.com/your-github-username/certification-project)
+- 🧾 [Expense Management System](https://github.com/sumit70707/Expense_Management_System)  
+  A full-stack application to manage and track user expenses with separate dashboards for admin and users.
+
+- 📚 [Case Study: Creating an API for a Human Resource Program](https://github.com/sumit70707/Creating-an-API-for-a-Human-Resource-Program)  
+  Developed a RESTful API using Java and Spring Boot for HR operations like employee onboarding and management.
+
+- 📦 [Project Name 3](https://github.com/sumit70707/project-repo-name)  
+  *Brief description goes here (e.g., A mini backend service for ...)*
+
+- 📦 [Project Name 4](https://github.com/sumit70707/project-repo-name)  
+  *Brief description goes here (e.g., A tool for automating ...)*  
+
 
 ---
 
 ### 📬 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sumit-shelke/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumit-shelke/)
