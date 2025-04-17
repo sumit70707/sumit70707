@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Java Backend Developer | Code Craftsperson | REST API Wrangler</h3>
 
 <p align="center">
-I'm a Java enthusiast turning coffee ☕ into clean, scalable backend code.
+ I'm a Java enthusiast who loves turning coffee ☕ into clean, scalable backend code. 
 Specializing in RESTful APIs, Spring Boot, and microservices.
 I thrive in Agile teams that prioritize collaboration and clean architecture.
 </p>
