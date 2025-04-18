@@ -49,7 +49,7 @@ I thrive in Agile teams that prioritize collaboration and clean architecture.
 - 📚 [Case Study: Creating an API for a Human Resource Program](https://github.com/sumit70707/Creating-an-API-for-a-Human-Resource-Program)  
   Developed a RESTful API using Java and Spring Boot for HR operations like employee onboarding and management.
 
-- 🧾 [commerce Web Application](https://github.com/sumit70707/Ecommerce)  
+- 🧾 [Ecommerce Web Application](https://github.com/sumit70707/Ecommerce)  
   The Ecommerce Web Application built using Angular for the frontend and Spring Boot for the backend. The application enables users to browse products, add items to their cart, manage orders, and complete secure checkouts
 
 - 📦 [QuizMaster](https://github.com/sumit70707/QuizMaster)  
