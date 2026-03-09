@@ -44,6 +44,7 @@ I thrive in Agile teams that prioritize collaboration and clean architecture.
 
 ### 🚀 Featured Projects:
 - 🧾 [TrueMe - Scalable E-Commerce Microservices Platform](https://github.com/sumit70707/CDAC_Project)
+  
   TrueMe is a production-grade E-Commerce application built using a modern Spring Boot Microservices Architecture with a React frontend.
   
 - 🧾 [Expense Management System](https://github.com/sumit70707/Expense_Management_System)  
