@@ -43,6 +43,10 @@ I thrive in Agile teams that prioritize collaboration and clean architecture.
 ---
 
 ### 🚀 Featured Projects:
+- 🤖 [JobAutomate - Job Application Automation Tool](https://github.com/sumit70707/job-automate)
+  
+  A lightweight job application automation tool that sends personalized emails with resume links to HRs instantly. Built with HTML, CSS, JS and EmailJS.
+
 - 🧾 [TrueMe - Scalable E-Commerce Microservices Platform](https://github.com/sumit70707/CDAC_Project)
   
   TrueMe is a production-grade E-Commerce application built using a modern Spring Boot Microservices Architecture with a React frontend.
